@@ -6,6 +6,10 @@
 
 [Circuit Playground Express](https://www.adafruit.com/product/3333)
 
+[Teensy 3.6](https://www.adafruit.com/product/3266)
+
+[Teensy Audio Board](https://www.adafruit.com/product/1780)
+
 ## Projects & Tutorials
 
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
@@ -23,6 +27,12 @@
 [shairport sync (AirPlay)](https://github.com/mikebrady/shairport-sync)
 
 [Setting up AirPlay Receiver](https://thepi.io/how-to-set-up-a-raspberry-pi-airplay-receiver/)
+
+[Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html)
+
+[Realtime Arduino Audio Processing](http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-realtime-audio-processing/)
+
+[Turning interrupts off and on](https://arduino.stackexchange.com/questions/45927/arduino-continuously-reading-adc-value-using-interrupt)
 
 #### Spotify
 
